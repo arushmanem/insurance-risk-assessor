@@ -1,0 +1,25 @@
+# Virtual environments
+venv/
+.venv/
+ENV/
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+__pycache__/
+
+# Python artifacts
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+*.egg
+
+# Data files (optional - remove if you want to track CSV files)
+*.csv
+*.pkl
+*.pickle
+
+# IDE/Editor specific
+.vscode/
+.idea/
+.DS_Store (Mac).DS_Store
