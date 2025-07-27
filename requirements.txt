@@ -11,3 +11,6 @@ seaborn==0.13.2
 
 # Jupyter (only if you need notebooks)
 jupyter==1.0.0
+
+# Flask for App
+flask==2.3.2
